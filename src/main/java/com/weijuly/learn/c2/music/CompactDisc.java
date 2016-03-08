@@ -1,4 +1,4 @@
-package com.weijuly.learn.music;
+package com.weijuly.learn.c2.music;
 
 /**
  * A sample interface for multiple concrete bean implementation

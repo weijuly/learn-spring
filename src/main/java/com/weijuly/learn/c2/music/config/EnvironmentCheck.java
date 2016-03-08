@@ -1,4 +1,4 @@
-package com.weijuly.learn.music.config;
+package com.weijuly.learn.c2.music.config;
 
 import org.springframework.context.annotation.Condition;
 import org.springframework.context.annotation.ConditionContext;

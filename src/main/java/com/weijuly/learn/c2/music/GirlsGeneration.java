@@ -1,4 +1,4 @@
-package com.weijuly.learn.music;
+package com.weijuly.learn.c2.music;
 
 import org.springframework.stereotype.Component;
 

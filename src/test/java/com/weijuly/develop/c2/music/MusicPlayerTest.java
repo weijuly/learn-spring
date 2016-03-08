@@ -1,4 +1,4 @@
-package com.weijuly.develop.music;
+package com.weijuly.develop.c2.music;
 
 import static org.junit.Assert.assertNotNull;
 
@@ -15,9 +15,9 @@ import org.springframework.test.context.TestExecutionListeners;
 import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 import org.springframework.test.context.support.DependencyInjectionTestExecutionListener;
 
-import com.weijuly.learn.music.CompactDisc;
-import com.weijuly.learn.music.MediaPlayer;
-import com.weijuly.learn.music.config.MusicPlayerConfig;
+import com.weijuly.learn.c2.music.CompactDisc;
+import com.weijuly.learn.c2.music.MediaPlayer;
+import com.weijuly.learn.c2.music.config.MusicPlayerConfig;
 
 import junit.framework.Assert;
 
