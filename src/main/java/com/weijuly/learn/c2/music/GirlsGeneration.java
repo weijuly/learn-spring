@@ -9,8 +9,12 @@ import org.springframework.stereotype.Component;
 @Component("snsd")
 public class GirlsGeneration implements CompactDisc {
 
-    public void play() {
-	System.out.print("Playing Girls and Peace by SNSD");
-    }
+	public void play() {
+		System.out.print("Playing Girls and Peace by SNSD");
+	}
+
+	public void playTrack(int track) {
+		System.out.print("Playing track: " + track);
+	}
 
 }

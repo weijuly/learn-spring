@@ -39,8 +39,8 @@ public class MusicPlayerConditionTest {
 
     @Before
     public void setup() {
-	stream = new ByteArrayOutputStream();
-	System.setOut(new PrintStream(stream));
+		stream = new ByteArrayOutputStream();
+		System.setOut(new PrintStream(stream));
     }
 
     @Test
